@@ -1,1 +1,1 @@
-# Curso-SQL_proyecto-universidad
+# Curso-SQL_proyecto_universidad
